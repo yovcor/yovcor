@@ -16,7 +16,7 @@
 ### 💻 I code in
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,react,nodejs,mysql,mongodb,firebase,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,react,nodejs,mysql,mongodb,firebase,html,css" />
 </p>
 
 ### 🛠️ Tools I use
