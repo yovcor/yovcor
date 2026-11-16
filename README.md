@@ -12,6 +12,8 @@
 - 🧠 Exploring AI & Machine Learning — with interests in Deep Learning, NLP, Computer Vision and Graph Neural Networks.
 - 🔍 Working on Research Projects — focusing on reproducible ML, benchmarking and intelligent systems.
 - 🚀 Building Real-World Solutions — combining AI, Software Engineering, Data Engineering and IoT.
+- 🛡️ Building Network Security Solutions — working ACLs, NAT/PAT, firewall configurations.
+- 🔍 Analysing Network Traffic — using Wireshark to investigate TCP/IP, HTTP/HTTPS, TLS and QUIC protocols.
 
 ### 💻 I code in
 
