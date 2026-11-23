@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I am Yovana Coreira 👋</h1>
 
 <p align="center">
-   <b>Computer Engineering Undergraduate | Networking & Network Engineering | AI & Machine Learning</b>
+   <b>Computer Engineering Undergraduate | AI & Machine Learning | Networking</b>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ### 💻 I code in
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,react,nodejs,mysql,mongodb,firebase,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,react,nodejs,mysql,firebase,html,css" />
 </p>
 
 ### 🛠️ Tools I use
@@ -31,5 +31,5 @@ Networking Tools: Cisco Packet Tracer, Cisco IOS CLI, Cisco ASA 5505, Wireshark,
 
 📌 Areas of Interest
 
-Computer Networking | Network Engineering | Network Security | AI & Machine Learning | Computer Vision | Intelligent Systems
+Computer Networking | AI & Machine Learning | Computer Vision
   
